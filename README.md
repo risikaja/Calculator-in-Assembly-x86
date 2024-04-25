@@ -3,7 +3,7 @@ This repository includes a simple calculator programmed in Assembly language for
 
 Features:
 
-Addition: Sum two numbers and display the result.
-Multiplication: Multiply two numbers and present the outcome.
-Subtraction: Deduct the second number from the first and show the result.
-Division: Divide the first number by the second and showcase the quotient.
+\nAddition: Sum two numbers and display the result.
+\nMultiplication: Multiply two numbers and present the outcome.
+\nSubtraction: Deduct the second number from the first and show the result.
+\nDivision: Divide the first number by the second and showcase the quotient.
