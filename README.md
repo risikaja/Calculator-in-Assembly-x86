@@ -6,4 +6,6 @@ Features:
 <br>Addition: Sum two numbers and display the result.
 <br>Multiplication: Multiply two numbers and present the outcome.
 <br>Subtraction: Deduct the second number from the first and show the result.
-<br>Division: Divide the first number by the second and showcase the quotient.
+<br>Division: Divide the first number by the second and showcase the quotient.<br>
+__**Author**__
+•	Riza Kaja
